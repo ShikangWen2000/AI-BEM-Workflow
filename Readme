@@ -1,1 +1,18 @@
-The source code and synthetic dataset associated with this study will be released soon.
+# AI-BEM-Workflow
+
+Official repository for the paper:
+
+**An AI-assisted workflow for generative building design and energy modeling:
+Converting natural language design intent and images into 3D building energy model inputs**
+
+Shikang Wen and Qingyan Chen  
+*Advanced Engineering Informatics*
+
+## Repository contents
+
+This repository contains the resources associated with the study, including:
+
+- Synthetic building dataset
+- GraphSAGE-based building component segmentation
+- Mesh-to-EnergyPlus conversion workflow
+- Evaluation scripts and example cases
